@@ -1,0 +1,13 @@
+body {
+  background: rgba(0,0,0,0.1);
+}
+.clock {
+  margin: 2rem auto;
+  text-align: center;
+}
+.clock-time {
+  font-size: 48px;
+}
+.clock-ampm {
+  font-size: 30px;
+}
